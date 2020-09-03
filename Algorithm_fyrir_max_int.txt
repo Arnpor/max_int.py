@@ -1,0 +1,5 @@
+<gera maximum tölu variable sem byrjar á 0
+
+<gera while lykkju fyrir inputið
+
+<
