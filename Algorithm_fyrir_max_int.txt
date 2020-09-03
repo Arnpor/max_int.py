@@ -1,5 +1,7 @@
 <gera maximum tölu variable sem byrjar á 0
 
-<gera while lykkju fyrir inputið
+<gera while lykkju fyrir inputið og allt á eftir því
 
-<
+<while lykkjan á að halda áfram þangað til að það er inputtað neikvæða tölu
+
+<á eftir while lykkjunni er prentað maximum töluna

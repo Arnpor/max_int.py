@@ -1,0 +1,13 @@
+<skilgreina 3 breytur sem munu summast saman og svo breytast
+
+<skilgreina þau sem num1 = 1, num2 = 2, og num3 = 3
+
+<prenta þau
+
+<gera for lykkju sem gengur í jafn mörg skipti og inputið
+
+< summa saman num1, 2, og 3
+
+<prenta summuna
+
+<gera num1=num2, num2=num3, og num3=sum
